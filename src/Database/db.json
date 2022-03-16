@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "uname": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "uname": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "uname": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156"
+    },
+    {
+      "name": "sairam",
+      "uname": "sairam",
+      "email": "sai@gmail.com",
+      "phone": "9642087957",
+      "id": 5
+    }
+  ]
+}
